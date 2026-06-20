@@ -11,6 +11,6 @@
     <img src="https://img.shields.io/badge/-bilibili-ff69b4?style=flat&labelColor=ff69b4&logo=bilibili&logoColor=white" />
   </a>
   <a href="https://github.com/YanjieZe">
-    <img src="https://img.shields.io/github/stars/YanjieZe?style=social" />
+    <img src="https://img.shields.io/github/stars/ustc-flicar?style=social" />
   </a>
 </p>
